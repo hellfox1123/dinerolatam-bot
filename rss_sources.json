@@ -1,0 +1,9 @@
+{
+  "sources": [
+    "https://www.expansion.com/rss/economia.xml",
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
+    "https://www.elconfidencial.com/rss/economia.xml",
+    "https://www.elfinanciero.com.mx/rss/",
+    "https://www.portafolio.co/rss"
+  ]
+}
