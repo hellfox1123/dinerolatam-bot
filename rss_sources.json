@@ -1,9 +1,15 @@
 {
   "sources": [
-    "https://www.expansion.com/rss/economia.xml",
-    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
-    "https://www.elconfidencial.com/rss/economia.xml",
-    "https://www.elfinanciero.com.mx/rss/",
-    "https://www.portafolio.co/rss"
+    {"url": "https://www.expansion.com/rss/economia.xml", "name": "Expansión"},
+    {"url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada", "name": "El País"},
+    {"url": "https://www.elconfidencial.com/rss/economia.xml", "name": "El Confidencial"},
+    {"url": "https://www.elfinanciero.com.mx/rss/", "name": "El Financiero"},
+    {"url": "https://www.portafolio.co/rss/economia", "name": "Portafolio"},
+    {"url": "https://www.infobae.com/arc/outboundfeeds/rss/category/economia/", "name": "Infobae"},
+    {"url": "https://www.bloomberglinea.com/arc/outboundfeeds/rss/?outputType=xml", "name": "Bloomberg Línea"},
+    {"url": "https://expansion.mx/rss/economia", "name": "Expansión México"},
+    {"url": "https://www.larepublica.co/rss/economia", "name": "La República"},
+    {"url": "https://gestion.pe/arc/outboundfeeds/rss/category/economia/?outputType=xml", "name": "Gestión"},
+    {"url": "https://www.df.cl/noticias/site/list/port/rss.xml", "name": "Diario Financiero"}
   ]
 }
